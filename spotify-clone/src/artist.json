@@ -1,0 +1,52 @@
+{
+    "name": "American Football",
+    "albumCover": "/images/albumCovers/AmericanFootball.jpg",
+    "releaseYear": "1999",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Never Meant",
+            "path": "/songs/Never Meant.mp3"
+        },
+        {
+            "id": 2,
+            "name": "The Summer Ends",
+            "path": "/songs/The Summer Ends.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Honestly",
+            "path": "/songs/Honestly.mp3"
+        },
+        {
+            "id": 4,
+            "name": "For Sure",
+            "path": "/songs/For Sure.mp3"
+        },
+        {
+            "id": 5,
+            "name": "You Know I Should Be Leaving",
+            "path": "/songs/You Know I Should Be Leaving.mp3"
+        },
+        {
+            "id": 6,
+            "name": "But The Regrets Are Killing Me",
+            "path": "/songs/But The Regrets Are Killing Me.mp3"
+        },
+        {
+            "id": 7,
+            "name": "I'll See You When We're Both Not So Emotional",
+            "path": "/songs/I'll See You When We're Both Not So Emotional.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Stay Home",
+            "path": "/songs/Stay Home.mp3"
+        },
+        {
+            "id": 9,
+            "name": "The One With The Wurlitzer",
+            "path": "/songs/The One With The Wurlitzer.mp3"
+        }
+    ]
+}
